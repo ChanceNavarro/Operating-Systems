@@ -1,3 +1,7 @@
 One operating system function is to establish a user-interface. 
 This user-interface will allow the user to easily interact with the computer. 
 The better the user-interface, the easier and more comfortable the experience.
+
+Another operating system function is security. 
+Security is essential to a computer; without it your data and access to your programs can be compromised by malicious people. 
+This security can be established through password protection, network monitoring, etc. 
