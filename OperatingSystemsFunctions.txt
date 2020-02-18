@@ -5,3 +5,7 @@ The better the user-interface, the easier and more comfortable the experience.
 Another operating system function is security. 
 Security is essential to a computer; without it your data and access to your programs can be compromised by malicious people. 
 This security can be established through password protection, network monitoring, etc. 
+
+A third operating system function is File Management. 
+An operating system should allow for organized files for efficient and intuitive navigation. 
+Often through directories, an OS will keep track of where information is stored and cleanly allow the user access to this information and its status. 
